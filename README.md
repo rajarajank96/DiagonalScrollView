@@ -7,3 +7,5 @@ Usage:
 val diagonalScrollView = DiagonalScrollView( context )
 
 diagonalScrollView.attach( childView )
+
+diagonalScrollView.addOnScrollListener( listener )
